@@ -2,3 +2,4 @@ asgiref==3.3.4
 Django==3.2.3
 sqlparse==0.4.1
 tzdata==2022.1
+
